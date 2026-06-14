@@ -212,7 +212,7 @@ Sales-Analytics-DWH-Project/
 
 **Mahmoud Saad**
 
-Junior Data Engineer | Data Scientist | Kaggle Expert
+Junior Data Engineer | Kaggle Expert
 
 LinkedIn:
 https://www.linkedin.com/in/mahmoud-saad0/
