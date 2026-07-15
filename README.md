@@ -212,10 +212,10 @@ Sales-Analytics-DWH-Project/
 
 **Mahmoud Saad**
 
-Junior Data Engineer | Kaggle Expert
+Junior Data Engineer 
 
 LinkedIn:
 https://www.linkedin.com/in/mahmoud-saad0/
 
 Email:
-[mahmoud_165797@fci.sohag.edu.eg](mailto:mahmoud_165797@fci.sohag.edu.eg)
+[Mahmoud0Saad@outlook.com](mailto:Mahmoud0Saad@outlook.com)
